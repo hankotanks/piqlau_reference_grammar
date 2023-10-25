@@ -1,0 +1,17 @@
+V=iyɯuaɶʌɔ
+C=pbtdkgqɢʔfvθsxχɾmnŋɴ
+S=mnŋɴwlʟɾ
+A=wlʟ
+O=pbtdkgqɢʔfvθsxχ
+{ɢ,ɴ,χ}/{g,ŋ,x}/_
+b/v/V_V
+{b,d,g}/{p,t,k}/_{m,n,ŋ,ɴ}
+AO/OA/_
+v/f/_
+θ/f/_
+{y,ɶ}/{i,a}/_
+ɾ/l/_
+s/ɕ/_C
+ŋg/ŋː/_
+{ʔ,ŋ,ɕ,ʟ}/{',g,c,ɭ}/_
+{ɯ,ʌ,ɔ}/{u̇,ȯ,o}/_

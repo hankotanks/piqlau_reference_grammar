@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Abstract}{1}{}%
+\contentsline {section}{\numberline {2}The Speakers of the Piqlau Language}{1}{}%
+\contentsline {section}{\numberline {3}Phonology}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Consonants}{2}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Nasal Assimilation}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Vowels}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Strong vs. Weak Quality}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Stress}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Dipthongs}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Evolution from Old Piqlau}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Survey of the Parent Language}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Sound Changes \& Allophony}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Phonotactics}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Legal Consonant Clusters}{6}{}%

@@ -1,0 +1,5 @@
+V = i/y/ɯ/u/a/ɶ/ʌ/ɔ
+C = p/b/t/d/k/g/q/ɢ/ʔ/f/v/θ/s/x/χ/ɾ/m/n/ŋ/ɴ
+N = m/n/ŋ/ɴ/w/l/ʟ/ɾ
+
+CV(N)CV(N)CV(N)
